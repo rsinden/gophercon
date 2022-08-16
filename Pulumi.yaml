@@ -1,0 +1,3 @@
+name: gophercon-app
+runtime: go
+description: A minimal Kubernetes Go Pulumi program
